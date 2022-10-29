@@ -19,7 +19,7 @@ export default function Weather(props) {
       height="100"
       width="100"
       color="white"
-      secondaryColor="#4fa94d"
+      secondaryColor="white"
       radius="12.5"
       ariaLabel="mutating-dots-loading"
       wrapperStyle={{}}
